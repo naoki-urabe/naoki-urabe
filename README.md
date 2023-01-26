@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   14 mins         ███████████████░░░░░░░░░░   59.60 %
-Markdown     8 mins          █████████░░░░░░░░░░░░░░░░   35.57 %
-gitignore    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Markdown     8 mins          ███████████████████▒░░░░░   77.60 %
+TypeScript   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+gitignore    1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
 ```
 
 <!--END_SECTION:waka-->
