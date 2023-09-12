@@ -1,8 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         14 mins         ███████████████████████▓░   95.28 %
-Vim Script   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Bash         10 mins         ███████████████████████▒░   93.68 %
+Vim Script   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
 ```
 
 <!--END_SECTION:waka-->
